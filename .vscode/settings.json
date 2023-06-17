@@ -5,5 +5,19 @@
   "idf.adapterTargetName": "esp32",
   "idf.openOcdConfigs": [
     "board/esp32-wrover-kit-3.3v.cfg"
-  ]
+  ],
+  "files.associations": {
+    "pcd8544.h": "c",
+    "sdkconfig.h": "c",
+    "esp_bt_main.h": "c",
+    "esp_bt.h": "c",
+    "bt_spp.h": "c",
+    "esp_gap_bt_api.h": "c",
+    "sstream": "c",
+    "regex": "c",
+    "random": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c"
+  }
 }
